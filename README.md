@@ -23,6 +23,13 @@ DMMCI
 python DMMCI_master.py
 ```
 
+## shap
+calculate shap value
+```shell
+cd shap/
+python deep_shap.py
+```
+
 
 
 
