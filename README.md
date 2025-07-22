@@ -3,17 +3,17 @@ This is the code of paper "Reinforcement Learning-Based Edge-Assisted Inference 
 
 ## file structure
 MMCI/
-├── Algorithm/                # reinforcement learning algorithms
-├── env/                      # simulation environment
-├── imagebind/                # imagebind model code
-├── results/                  # the data results of reinforcement learning algorithms
-├── shap/                     # calculate shap value
-├── build_model.py            # build imagebind model
-├── DMMCI_master.py           # DMMCI implement code
-├── MMCI_master.py            # MMCI implement code
-├── ReADME.md                 # illustrate documentation
-├── requirements.txt          # python environment
-├── runningTime.py            # running time of the model on FP16 and FP32
+├── Algorithm/                # reinforcement learning algorithms \n
+├── env/                      # simulation environment \n
+├── imagebind/                # imagebind model code \n
+├── results/                  # the data results of reinforcement learning algorithms \n
+├── shap/                     # calculate shap value \n
+├── build_model.py            # build imagebind model \n
+├── DMMCI_master.py           # DMMCI implement code \n
+├── MMCI_master.py            # MMCI implement code \n
+├── ReADME.md                 # illustrate documentation \n
+├── requirements.txt          # python environment \n
+├── runningTime.py            # running time of the model on FP16 and FP32 \n
 └── setup.py                  # imagebind dependencies                  
 
 
