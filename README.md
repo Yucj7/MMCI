@@ -1,4 +1,4 @@
-# SimDMMCI
+# MMCI
 This is the code of paper "Reinforcement Learning-Based Edge-Assisted Inference with Multimodal Data"
 
 
