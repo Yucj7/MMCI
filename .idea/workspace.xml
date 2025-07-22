@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e633fa7-443e-474f-9dff-71b4a423bcbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/Hiearachical_DQN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Hiearachical_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Q_learning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Safe_DQN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DMMCI_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MMCI_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/env_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/global_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagebind/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagebind/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagebind/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagebind/models/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagebind/models/imagebind_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagebind/models/multimodal_preprocessors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagebind/models/transformer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runningTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="1e633fa7-443e-474f-9dff-71b4a423bcbc" name="Changes" comment="v1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +63,23 @@
       <option name="presentableId" value="Default" />
       <updated>1751818138175</updated>
     </task>
+    <task id="LOCAL-00001" summary="v1">
+      <option name="closed" value="true" />
+      <created>1751820057780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751820057780</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v1">
+      <option name="closed" value="true" />
+      <created>1751820106383</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751820106383</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
 </project>
