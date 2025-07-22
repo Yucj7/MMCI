@@ -1,6 +1,21 @@
 # MMCI
 This is the code of paper "Reinforcement Learning-Based Edge-Assisted Inference with Multimodal Data"
 
+## file structure
+MMCI/
+├── Algorithm/                # reinforcement learning algorithms
+├── env/                      # simulation environment
+├── imagebind/                # imagebind model code
+├── results/                  # the data results of reinforcement learning algorithms
+├── shap/                     # calculate shap value
+├── build_model.py            # build imagebind model
+├── DMMCI_master.py           # DMMCI implement code
+├── MMCI_master.py            # MMCI implement code
+├── ReADME.md                 # illustrate documentation
+├── requirements.txt          # python environment
+├── runningTime.py            # running time of the model on FP16 and FP32
+└── setup.py                  # imagebind dependencies                  
+
 
 # Usage
 ## install
