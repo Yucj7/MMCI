@@ -49,8 +49,5 @@ python deep_shap.py
 * Release the code of shap value calculating.
 * Release the implementation code of secure reinforcement learning algorithm.
 
-## Acknowledgement
-This project is based on ImageBind. Thanks for their awesome work.
-
 
 
